@@ -1,0 +1,32 @@
+{
+  "updated": "2026-10-24",
+  "skills": [
+    {
+      "id": "threads",
+      "name": "threads-연결",
+      "title": "스레드 연결",
+      "what": "말로 부탁하면 내 스레드에 글 올리기·답글·삭제·조회수·댓글 확인",
+      "you_do": "페이스북·스레드 로그인",
+      "repo": "https://github.com/from5302-lab/yomates-threads-skill",
+      "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-threads-skill/main/SKILL.md"
+    },
+    {
+      "id": "firebase",
+      "name": "firebase-세팅",
+      "title": "Firebase 세팅",
+      "what": "내 사이트 주소(https://아이디.web.app)와 데이터베이스 만들기, 첫 화면 배포",
+      "you_do": "구글 로그인 (Functions가 필요할 때만 Blaze 카드 등록)",
+      "repo": "https://github.com/from5302-lab/yomates-firebase-skill",
+      "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-firebase-skill/main/SKILL.md"
+    },
+    {
+      "id": "solapi",
+      "name": "solapi-연결",
+      "title": "솔라피 문자 연결",
+      "what": "학부모·학생에게 문자(SMS·LMS) 보내기, 잔액·발신번호 확인, 내 사이트에서 자동 문자",
+      "you_do": "솔라피 로그인, 발신번호 인증번호 입력, 충전 결제",
+      "repo": "https://github.com/from5302-lab/yomates-solapi-skill",
+      "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-solapi-skill/main/SKILL.md"
+    }
+  ]
+}
