@@ -23,7 +23,7 @@
       "id": "solapi",
       "name": "solapi-연결",
       "title": "솔라피 문자 연결",
-      "what": "학부모·학생에게 문자(SMS·LMS) 보내기, 잔액·발신번호 확인, 내 사이트에서 자동 문자",
+      "what": "학부모·학생에게 문자(SMS·LMS) 보내기, 여러 명 한 번에 보내기, 잔액·발신번호 확인, 내 사이트에서 자동 문자",
       "you_do": "솔라피 로그인, 발신번호 인증번호 입력, 충전 결제",
       "repo": "https://github.com/from5302-lab/yomates-solapi-skill",
       "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-solapi-skill/main/SKILL.md"
@@ -32,8 +32,8 @@
       "id": "academy-team",
       "name": "학원-AI-팀-세팅",
       "title": "학원 AI 팀 12명",
-      "what": "상담 실장, 데스크, 수납, 리포트, 채점, 시험 출제, 블로그 등 학원 AI 팀원 12명을 한 번에 들이고 '우리 학원' 방 만들기",
-      "you_do": "학원 이름·과목·학년 답하기",
+      "what": "상담·데스크·수납·리포트·채점·시험지·블로그 등 학원 AI 팀원 12명을 맡은 일 스킬과 함께 한 번에 들이고, '우리 학원' 방 만들고, 솔라피 문자 연결까지",
+      "you_do": "학원 이름·과목·학년 답하기, 솔라피 로그인·인증번호·충전",
       "repo": "https://github.com/from5302-lab/yomates-academy-team",
       "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-academy-team/main/SKILL.md"
     }
