@@ -1,5 +1,9 @@
 # yomates-skills
 
+<!-- yomates-install:readme -->
+> **먼저 요메이트(Yomates)가 필요해요.** 이 스킬은 요메이트 앱 안에서 돌아가요. 아직 설치하지 않았다면 [YOMATES-INSTALL.md](YOMATES-INSTALL.md) 순서대로 설치한 뒤 돌아오세요. 공식 다운로드는 https://yomates.ai 하나뿐이에요.
+<!-- /yomates-install:readme -->
+
 학원 쌤들을 위한 요메이트(Yomates) 스킬 묶음이에요. 주소 하나로 목록을 보고, 필요한 것만 골라 설치해요.
 
 ## 설치
