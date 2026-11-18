@@ -21,6 +21,7 @@
 | [Firebase 세팅](https://github.com/from5302-lab/yomates-firebase-skill) | 내 사이트 주소와 데이터베이스 만들기, 첫 화면 배포 | 구글 로그인 (필요할 때만 Blaze 카드 등록) |
 | [학원 AI 팀 12명](https://github.com/from5302-lab/yomates-academy-team) | 상담·데스크·수납·리포트·채점·시험지·홈페이지 등 팀원 12명을 한 번에 들이기 | 학원 이름·과목·학년 답하기 |
 | [솔라피 문자 연결](https://github.com/from5302-lab/yomates-solapi-skill) | 학부모·학생 문자 보내기, 내 사이트에서 자동 문자 | 솔라피 로그인, 발신번호 인증, 충전 |
+| [문제지 출제 (우리 학원 문제지 규칙)](https://github.com/from5302-lab/yomates-worksheet-skill) | 교과서 한 쪽으로 우리 학원 문제지·해설 PDF, 쓸수록 우리 학원 규칙이 쌓임 | 처음 한 번 학원 이름·학년·과목·교과서 답하기 |
 
 로그인과 결제를 뺀 복잡한 설정은 요메이트 팀원이 해요. 키와 토큰은 쌤 컴퓨터(맥은 키체인)에만 저장되고, 채팅이나 AI 화면에 나오지 않아요.
 

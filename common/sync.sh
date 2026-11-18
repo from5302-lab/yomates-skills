@@ -11,6 +11,7 @@ REPOS=(
   yomates-solapi-skill
   yomates-threads-skill
   yomates-firebase-skill
+  yomates-worksheet-skill
   yomates-home-tutor-academy
   yomates-home-tutor-parent
 )

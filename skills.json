@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-11-18",
   "skills": [
     {
       "id": "threads",
@@ -36,6 +36,15 @@
       "you_do": "학원 이름·과목·학년 답하기, 솔라피 로그인·인증번호·충전",
       "repo": "https://github.com/from5302-lab/yomates-academy-team",
       "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-academy-team/main/SKILL.md"
+    },
+    {
+      "id": "worksheet",
+      "name": "우리-학원-문제지-규칙",
+      "title": "문제지 출제 (우리 학원 문제지 규칙)",
+      "what": "교과서·교재 한 쪽(사진이나 글)으로 우리 학원 문제지와 정답·해설 A4 PDF 뽑기, 직접 풀어 정답 검증, \"이건 이렇게 바꿔\"라고 할 때마다 우리 학원 규칙이 쌓임",
+      "you_do": "처음 한 번 학원 이름·학년·과목·교과서·시험 유형 답하기",
+      "repo": "https://github.com/from5302-lab/yomates-worksheet-skill",
+      "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-worksheet-skill/main/SKILL.md"
     }
   ]
 }
