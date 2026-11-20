@@ -12,6 +12,7 @@ REPOS=(
   yomates-threads-skill
   yomates-firebase-skill
   yomates-worksheet-skill
+  yomates-grading-skill
   yomates-home-tutor-academy
   yomates-home-tutor-parent
 )

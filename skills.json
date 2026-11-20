@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-20",
   "skills": [
     {
       "id": "threads",
@@ -45,6 +45,15 @@
       "you_do": "처음 한 번 학원 이름·학년·과목·교과서·시험 유형 답하기",
       "repo": "https://github.com/from5302-lab/yomates-worksheet-skill",
       "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-worksheet-skill/main/SKILL.md"
+    },
+    {
+      "id": "grading",
+      "name": "우리-학원-채점-규칙",
+      "title": "숙제·시험 채점 (우리 학원 채점 규칙)",
+      "what": "숙제·시험지 답안지 사진을 정답지와 대조해 채점표, 학생별 오답 정리, 틀린 문제만 다시 풀 문제지, 월말 성적표 A4 PDF 만들기. 애매한 답은 쌤 확인 목록에, \"이건 이렇게 채점해\"라고 할 때마다 우리 학원 채점 규칙이 쌓임",
+      "you_do": "처음 한 번 학원 이름·학년·과목·반·학생 별명·배점·통과선 답하기",
+      "repo": "https://github.com/from5302-lab/yomates-grading-skill",
+      "skill_url": "https://raw.githubusercontent.com/from5302-lab/yomates-grading-skill/main/SKILL.md"
     }
   ]
 }
