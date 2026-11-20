@@ -25,7 +25,7 @@ for r in "${REPOS[@]}"; do
   echo -n "$r: "; python3 "$HERE/apply.py" "$HERE" "$WORK/$r"
   cd "$WORK/$r"
   if [ -n "$(git status --porcelain)" ]; then
-    git add -A && git commit -qm "요메이트 설치 안내 공통 적용 (common/YOMATES-INSTALL.md)" && git push -q && echo "  → 올림 $(git rev-parse --short HEAD)"
+    git add -A && git -c user.name=from5302-lab -c user.email=from5302-lab@users.noreply.github.com commit -qm "요메이트 설치 안내 공통 적용 (common/YOMATES-INSTALL.md)" && git push -q && echo "  → 올림 $(git rev-parse --short HEAD)"
   else
     echo "  → 바뀐 것 없음"
   fi
